@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 蚂蚁类，进行路径搜索的载体
  * 
- * @author lyq
+ * @author 
  * 
  */
 public class Ant implements Comparable<Ant> {
