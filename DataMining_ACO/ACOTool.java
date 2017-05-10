@@ -14,7 +14,7 @@ import java.util.Random;
 /**
  * 蚁群算法工具类
  * 
- * @author lyq
+ * @author 
  * 
  */
 public class ACOTool {
