@@ -2,13 +2,13 @@ package DataMining_ACO;
 
 /**
  * 蚁群算法测试类
- * @author lyq
+ * @author 
  *
  */
 public class Client {
 	public static void main(String[] args){
 		//测试数据
-		String filePath = "C:\\Users\\lyq\\Desktop\\icon\\input.txt";
+		String filePath = "C:\\Users\\Desktop\\icon\\input.txt";
 		//蚂蚁数量
 		int antNum;
 		//蚁群算法迭代次数
